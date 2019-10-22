@@ -116,7 +116,7 @@
     "eslint-plugin-html": "^6.0.0",
     "fake-indexeddb": "^2.1.1",
     "mocha": "^6.2.1",
-    "now": "^16.3.1",
+    "now": "^16.4.0",
     "standard": "^14.3.1",
     "testcafe": "^1.5.0"
   },
